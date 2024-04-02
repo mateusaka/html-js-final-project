@@ -1,0 +1,27 @@
+.search {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#content {
+    text-align: center;
+}
+
+button {
+    margin: 4px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+table {
+    margin: auto;
+    text-align: left;
+    width: 100%;
+    max-width: 500px;
+}
+
+th {
+    width: 100px;
+}
